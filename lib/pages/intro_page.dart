@@ -19,7 +19,7 @@ class IntroPage extends StatelessWidget {
               color: Theme.of(context).colorScheme.inversePrimary,
               ),
         
-            //title
+            //title tittle 
             const Text(
               "Minimal Shop",
               style: TextStyle(
